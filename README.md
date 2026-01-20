@@ -1,6 +1,7 @@
 ## Stroke Prediction using Machine Learning
 
 This project applies supervised machine learning algorithms to predict stroke occurrence using healthcare data.
+Link of dataset: https://huggingface.co/datasets/Nnaodeh/Stroke_Prediction_Dataset
 
 ### Algorithms Used
 - Logistic Regression
